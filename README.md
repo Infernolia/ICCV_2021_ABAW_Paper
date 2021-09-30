@@ -2,6 +2,8 @@
 
 ## Conference: ICCV 2021 
 
+Location: Montreal, Canada Virtual
+
 https://iccv2021.thecvf.com/home
 
 ## Workshop: 2nd Workshop and Competition on Affective Behavior Analysis In-the-Wild (ABAW)
