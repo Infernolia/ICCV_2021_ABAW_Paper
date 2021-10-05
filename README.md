@@ -12,4 +12,6 @@ https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/
 
 ## Title: Evaluating the Performance of Ensemble Methods and Voting Strategies for Dense 2D Pedestrian Detection in the Wild
 
+Paper Link: https://openaccess.thecvf.com/content/ICCV2021W/ABAW/html/Marathe_Evaluating_the_Performance_of_Ensemble_Methods_and_Voting_Strategies_for_ICCVW_2021_paper.html
+
 ### Authors: Aboli Marathe, Rahee Walambe, Ketan Kotecha
